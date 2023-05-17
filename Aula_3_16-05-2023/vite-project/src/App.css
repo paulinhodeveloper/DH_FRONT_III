@@ -1,0 +1,26 @@
+.product-list {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .product-item {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .product-item img {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .product-item h2 {
+    margin-top: 10px;
+  }
+  
+  .product-item h3 {
+    margin-top: 5px;
+    color: #888;
+  }
+  
